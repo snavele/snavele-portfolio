@@ -5,7 +5,7 @@ date: 2014-07-18
 img: cabin.png
 alt: image-alt
 project-date: April 2014
-client: Start Bootstrap
-category: Web Development
-description: Use this area of the page to describe your project. Lorem ipsum dolor sit amet, consectetur adipisicing elit. Mollitia neque assumenda ipsam nihil, molestias magnam, recusandae quos quis inventore quisquam velit asperiores, vitae? Reprehenderit soluta, eos quod consequuntur itaque. Nam.
+client: Finacle Migration
+category: Data Engineering
+description: Enhanced data processing efficiency by 30% in a critical Finacle Migration project for a leading bank. Spearheaded the optimization of Informatica workflows and Hadoop-based mass ingestion processes to streamline data migration. Ensured seamless execution by proactively addressing potential challenges through effective collaboration with cross-functional teams and maintaining clear, consistent communication with key stakeholders, including clients. This resulted in improved data accuracy, reduced processing time, and successful project delivery within stringent timelines.
 ---
