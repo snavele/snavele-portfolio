@@ -32,14 +32,23 @@ disqus_shortname: myshortname
 #   primary-rgb: "24,288,156" #"128,179,255"
 #   secondary: 2c3e50 #FD6E8A
 #   secondary-dark: 233140 #A2122F
+# color:
+#   primary: 4a90e2 # Vibrant blue, symbolizing AI and technology
+#   primary-rgb: "74,144,226"
+#   secondary: f37c7c # Soft red, adding a creative highlight
+#   secondary-dark: 1a1a1a # Almost black, creating a strong dark foundation
+#   background: 0e0e0e # Deep black for the main background
+#   text: e0e0e0 # Light gray for readable text
+#   accent: 6c6cff # Electric indigo, for subtle accents and interactive elements
+
 color:
-  primary: 4a90e2 # Vibrant blue, symbolizing AI and technology
-  primary-rgb: "74,144,226"
-  secondary: f37c7c # Soft red, adding a creative highlight
-  secondary-dark: 1a1a1a # Almost black, creating a strong dark foundation
-  background: 0e0e0e # Deep black for the main background
-  text: e0e0e0 # Light gray for readable text
-  accent: 6c6cff # Electric indigo, for subtle accents and interactive elements
+ primary: 13111c    # Deep dark background
+ secondary: 1e1e2e  # Slightly lighter dark
+ accent: 3b82f6    # Bright blue for buttons/links
+ text-primary: f8f9fa  # White text
+ text-secondary: 9ca3af  # Gray text
+ card-bg: 1f2937    # Dark card background
+ border: 374151    # Subtle borders
 
 # Footer settings
 footer:
@@ -63,11 +72,11 @@ social:
 
 # Postal address (add as many lines as necessary)
 address:
-  - line: Nerul East, Navi-Mumbai
+  - line: Nerul, Navi-Mumbai
   - line: Maharashtra, India
 
 # Credits content
-credits: 'Freelancer is a free to use, open source Bootstrap theme created by <a href="http://startbootstrap.com">Start Bootstrap</a>.'
+# credits: 'Freelancer is a free to use, open source Bootstrap theme created by <a href="http://startbootstrap.com">Start Bootstrap</a>.'
 
 # Build settings
 markdown: kramdown
